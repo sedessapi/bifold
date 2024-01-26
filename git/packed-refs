@@ -1,0 +1,30 @@
+# pack-refs with: peeled fully-peeled sorted 
+4f26617e5017a62731e1d15ead5493f278b284dd refs/remotes/origin/main
+98053d76c601ebec7f270331ea155c61a6f6de0e refs/tags/v0.0.0
+^57d9b4b3edc0d53040b6834d0f7aae8fd5cfaae7
+24d84666da1b43fd851134a37611a8a763d24538 refs/tags/v1.0.0-alpha.108
+124a13cec0dd1a4b0720583c2d4cbbf59b8896b5 refs/tags/v1.0.0-alpha.113
+1d8689b386c6f46846e8509fdbef9448836c27de refs/tags/v1.0.0-alpha.119
+374b61665647e68218c25c2c0e28e7b9772450a2 refs/tags/v1.0.0-alpha.130
+a10963d820d7a97863f54713f779394cb3b0d22f refs/tags/v1.0.0-alpha.138
+10a327218e947a89aecfa6435dbc07777787ac8f refs/tags/v1.0.0-alpha.14
+152daf10ce247c46454d33efb7b291c6ec3ec8d7 refs/tags/v1.0.0-alpha.149
+a6ed691698690d7a7b6679cb86ebbc3624d71a44 refs/tags/v1.0.0-alpha.150
+4fd206dcddb430ac4389f1c543f40f470a559988 refs/tags/v1.0.0-alpha.153
+a8dac140ca1e3bab205e38d4b1ae0e0ceae173a7 refs/tags/v1.0.0-alpha.154
+add2c1a1e8c7e06602f2ce0f17f909fcc3181aff refs/tags/v1.0.0-alpha.155
+723acd6a9eb0af71a4eab8362aee32618bf47d53 refs/tags/v1.0.0-alpha.156
+c1c50965d2635fd25b06a90a034cadf59e1aad68 refs/tags/v1.0.0-alpha.157
+e4c23aa2a6ceec85d5ee65bdbfebf6058380bd11 refs/tags/v1.0.0-alpha.158
+e3dc1116f93726fb669dbba08345f2e1afc6e8a9 refs/tags/v1.0.0-alpha.159
+279599de1cedb4ce50cb408c4e53d4641cb26c95 refs/tags/v1.0.0-alpha.161
+4f26617e5017a62731e1d15ead5493f278b284dd refs/tags/v1.0.0-alpha.162
+4d6d99948fcb7618ff3ede1c9d4879505e679fe6 refs/tags/v1.0.0-alpha.34
+6f3a5cf925b2afc1e67223a3628c1fa0dd3fa756 refs/tags/v1.0.0-alpha.44
+22386cfa0be15b5248ef439bfe1f8ddd5e5317dc refs/tags/v1.0.0-alpha.50
+db3f18af25f554cd5d616e977e08551b77791c09 refs/tags/v1.0.0-alpha.53
+ea672590533ed50b0df2600caba5f55ea23da3e6 refs/tags/v1.0.0-alpha.7
+d5bf006ae2fc8d8b82dba97c4d69c0ca43689fbe refs/tags/v1.0.0-alpha.72
+3ee0242abcc5f5926772af87babda6f2efaccccb refs/tags/v1.0.0-alpha.81
+76d8e2696b821999b4dce003fc7e1a6ab9c8300e refs/tags/v1.0.0-alpha.96
+1f2c4677ab009ef4b8e444e0d295e7d25bc11e8b refs/tags/v1.0.0-alpha.99
