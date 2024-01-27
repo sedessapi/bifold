@@ -4186,7 +4186,7 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@hyperledger/aries-oca@^1.0.0, @hyperledger/aries-oca@workspace:packages/oca":
+"@hyperledger/aries-oca@^1.0.0, @hyperledger/aries-oca@workspace:^, @hyperledger/aries-oca@workspace:packages/oca":
   version: 0.0.0-use.local
   resolution: "@hyperledger/aries-oca@workspace:packages/oca"
   dependencies:
@@ -7470,7 +7470,7 @@ __metadata:
     "@hyperledger/anoncreds-react-native": ^0.1.0
     "@hyperledger/aries-askar-react-native": ^0.1.1
     "@hyperledger/aries-bifold-core": ^1.0.0
-    "@hyperledger/aries-oca": ^1.0.0
+    "@hyperledger/aries-oca": "workspace:^"
     "@hyperledger/indy-vdr-react-native": ^0.1.0
     "@react-native-async-storage/async-storage": 1.15.11
     "@react-native-community/masked-view": 0.1.11
